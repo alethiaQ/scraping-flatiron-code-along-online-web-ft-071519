@@ -7,5 +7,5 @@ class Course
   end
   def self.all
     @@all
-    en
+  end
 end
